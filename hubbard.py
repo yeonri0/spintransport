@@ -1,3 +1,5 @@
+# Hubbard模型、フェルミオン系、スピン輸送
+
 import numpy as np
 import matplotlib.pyplot as plt
 import quimb.tensor as qtn
